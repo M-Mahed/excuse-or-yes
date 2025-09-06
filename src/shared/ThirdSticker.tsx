@@ -41,5 +41,5 @@ const useStyles = tss.create(({ theme }) => ({
 }));
 
 export const { i18n } = declareComponentKeys<
-    | "Now will you kissi me?🥺?"
+    | "Now will you kissi me?🥺"
 >()({ ThirdSticker });
