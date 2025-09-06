@@ -17,7 +17,7 @@ export function FirstSticker() {
                 color="primary"
                 className={classes.typography}
             >
-                {t("Will you excuse me?")}
+                {t("Will you forgive me?")}
             </Typography>
 
             <div>
@@ -40,5 +40,5 @@ const useStyles = tss.create(({theme}) => ({
 }));
 
 export const { i18n } = declareComponentKeys<
-    | "Will you excuse me?"
+    | "Will you forgive me?"
 >()({ FirstSticker });
