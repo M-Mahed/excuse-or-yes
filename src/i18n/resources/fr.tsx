@@ -7,13 +7,13 @@ export const translations: Translations<"fr"> = {
         "No": "Non",
     },
     "FirstSticker": {
-        "Will you excuse me?": "Vas-tu m'excuser ?"
+        "Will you forgive me?": "Will you forgive me?"
     },
     "SecondSticker": {
         "Really?": "Vraiment ?"
     },
     "ThirdSticker": {
-        "Will you call me?": "Tu m'appelleras ?"
+        "Now will you kissi me?🥺": "Now will you kissi me?🥺"
     },
     "Call": {
         "Yes": "Oui",
