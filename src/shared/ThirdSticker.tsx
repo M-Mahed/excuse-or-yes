@@ -18,7 +18,7 @@ export function ThirdSticker() {
                 color="primary"
                 className={classes.typography}
             >
-                {t("Will you call me?")}
+                {t("Now will you kissi me?🥺")}
             </Typography>
 
             <div>
@@ -41,5 +41,5 @@ const useStyles = tss.create(({ theme }) => ({
 }));
 
 export const { i18n } = declareComponentKeys<
-    | "Will you call me?"
+    | "Now will you kissi me?🥺?"
 >()({ ThirdSticker });
