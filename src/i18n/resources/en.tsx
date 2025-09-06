@@ -12,7 +12,7 @@ export const translations: Translations<"en"> = {
         "Really?": "Really?"
     },
     "ThirdSticker": {
-        "Now will you kissi me🥺?": "Now will you kissi me🥺?"
+        "Now will you kissi me?🥺": "Now will you kissi me?🥺"
     },
     "Call": {
         "Yes": "Yes",
